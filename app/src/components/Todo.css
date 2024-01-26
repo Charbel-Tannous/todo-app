@@ -1,0 +1,8 @@
+.options{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.options > button{
+    max-width: 25%;
+}
